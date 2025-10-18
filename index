@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IT @ Letran Calamba</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Information Technology @ Letran Calamba</h1>
+    <p>Empowering future innovators through tech excellence</p>
+  </header>
+
+  <section class="content">
+    <h2>Why Choose IT at Letran?</h2>
+    <p>
+      At Letran Calamba, our BSIT program blends theory and practice to prepare students for careers in software development, web technologies, cybersecurity, and emerging tech. With hands-on labs, real-world projects, and a supportive community, you'll build the skills to lead in the digital age.
+    </p>
+    <ul>
+      <li>💡 Project-based learning with real clients</li>
+      <li>🧑‍💻 Specializations in Web Dev, Data Science, and Mobile Apps</li>
+      <li>🌐 Access to industry tools and platforms</li>
+      <li>🤝 Internship and career support</li>
+    </ul>
+  </section>
+
+  <section class="student-life">
+    <h2>Life as an IT Student</h2>
+    <p>
+      Beyond the code, Letran’s IT community thrives on collaboration, creativity, and purpose. Join hackathons, tech clubs, and outreach projects that make a difference.
+    </p>
+    <ul>
+      <li>🎮 Game development workshops</li>
+      <li>🎨 UI/UX design challenges</li>
+      <li>🐾 Tech for social good (e.g., animal care apps)</li>
+    </ul>
+  </section>
+
+  <section class="about-me" id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm Macky Villanueva, a BSIT student at Letran Calamba. I specialize in web development, UI/UX design, and emerging technologies. I love building practical solutions—from thrift shopper sites to controller setups—and helping others learn through tech. This site is part of my mission to inspire future IT students and showcase what we can achieve together.
+    </p>
+  </section>
+
+  <section class="cta">
+  <h2>Ready to Build the Future?</h2>
+  <p>
+    Whether you're into coding, design, or solving real-world problems, IT at Letran Calamba is your launchpad. Explore, create, and lead with us.
+  </p>
+  <a href="https://www.letran-calamba.edu.ph" class="cta-button" target="_blank" rel="noopener noreferrer">
+    Go to Letran Calamba Website
+  </a>
+</section>
+
+  <footer>
+    <p>&copy; 2025 IT Program - Letran Calamba</p>
+  </footer>
+</body>
+</html>
